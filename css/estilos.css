@@ -22,6 +22,7 @@ header, main {
 }
 
 header {
+
     text-align: center;
     background-color:#04090c;
     color: rgb(136, 60, 60);
@@ -30,6 +31,7 @@ header {
 
 .asd{
   padding: 5%;
+  height: 200px;
   background-color:#5f9fdf; border: 3px dashed rgb(253, 253, 253); padding:5mm;
 }
 .asd img{
@@ -38,6 +40,13 @@ header {
   margin-right:20px;
   margin-bottom:20px;
 }
+.asd1{
+  width:300px;
+}
+.qwe{
+  padding-top: 20px;
+}
+
 .asd h1{
   font-size:23px;
   
