@@ -109,7 +109,7 @@ a:hover{
   font-size: 20px;
 }
 
-  @media (max-width: 768px) {
+  @media (max-width: 500px) {
   
     .pie-pagina .primera-parte{
         width: 100%;
