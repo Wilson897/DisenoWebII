@@ -98,13 +98,13 @@ header {
     transform: scale(2);
     color: rgb(62, 136, 221);
   }
-  .pie-pagina .grupo-2{
+  .pie-pagina .gru{
     background-color: #0a1a2a;
     padding: 15px 10px;
     color: #fff;
     text-align: center;
   }
-  .pie-pagina .grupo-2 small{
+  .pie-pagina .gr small{
     font-size: 20px;
   }
   @media (max-width: 768px) {
@@ -116,7 +116,7 @@ header {
         grid-gap: 30px;
         padding: 35px 0;
     }
-    .grupo-2{
+    .gr{
         text-align: center;
     }
  }
