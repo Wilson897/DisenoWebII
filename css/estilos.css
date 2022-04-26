@@ -32,7 +32,7 @@ header {
 .asd{
   padding: 5%;
   height: 200px;
-  background-color:#5f9fdf; border: 3px dashed rgb(253, 253, 253); padding:5mm;
+  background-color:#5f9fdf; border: solid white; padding:5mm;
 }
 .asd img{
   width: 150px;
@@ -98,7 +98,7 @@ text-align: center;
 }
 .pie-pagina .gr{
   background-color: #0a1a2a;
-  padding: 15px 10px;
+  padding: 10px 5px;
   color: #fff;
   text-align: center;
 }
@@ -115,8 +115,8 @@ a:hover{
         width: 100%;
         background-position: center;
         grid-template-columns: repeat(1,1fr);/*definomos la cantidad de colmnas*/
-        grid-gap: 30px;
-        padding: 35px 0;
+        grid-gap: 5px;
+        padding: 5px 0;
     }
     .gr{
         text-align: center;
